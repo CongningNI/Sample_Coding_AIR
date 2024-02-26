@@ -32,6 +32,7 @@ To begin exploring these projects, clone the repository to your local machine. E
 Python libraries can be installed via pip:
 ```bash
 pip install nltk pandas matplotlib seaborn tensorflow keras sklearn gensim swifter
+```
 
 R packages can be installed by running the installation commands at the beginning of the stm_alz.Rmd file in an R environment.
 
