@@ -16,6 +16,10 @@ This notebook explores the application of Long Short-Term Memory (LSTM) networks
 ### 4. [stm_alz.Rmd](stm_alz.Rmd)
 An R Markdown document focused on structural topic modeling within the context of Alzheimer's research. It demonstrates the use of the `stm` package for topic modeling, along with `tm`, `furrr`, `dplyr`, `ggplot2`, and `tidyverse` for text mining, data manipulation, and visualization.
 
+### 5. [AIR_coding_section_Mar1st.ipynb](AIR_coding_section_Mar1st.ipynb)
+This notebook contains my solutions to coding tasks provided during AI area interview. The tasks focus on text preprocessing, TF-IDF practice, and clustering using Kmeans and DBSCAN.
+
+
 ## Getting Started
 
 To begin exploring these projects, clone the repository to your local machine. Ensure you have Python and R installed, along with the necessary libraries and packages mentioned in each file.
